@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3001";
+const BASE_URL = "https://task-manager-five-sage.vercel.app/";
 const LOGIN = `${BASE_URL}/api/users/login`;
 const REGISTER = `${BASE_URL}/api/users/register`;
 const AUTH = `${BASE_URL}/api/auth/`;
